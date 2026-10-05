@@ -1,4 +1,4 @@
-# 🚀 Pipeline de Dados Serverless End-to-End (AWS & Python)
+# Pipeline de Dados Serverless End-to-End (AWS & Python)
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
